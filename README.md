@@ -1,4 +1,3 @@
 # practice-github-repo
 Practice Repository
-
-README.md file was just edited manually. This file was edited locally.
+This line was added during conflict resolution
